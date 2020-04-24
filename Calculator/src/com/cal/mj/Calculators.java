@@ -21,7 +21,7 @@ public class Calculators {
         System.out.println("mul is "+m);
 
       //Division
-        double par1=22;
+        double par1=23;
         		double par2=7;
         div divObject=new div();
         double d=divObject.div(par1, par2);
